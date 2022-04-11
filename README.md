@@ -1,1 +1,1 @@
-# Docker files for images used for varius projects
+# Docker files for images used in various personal projects
